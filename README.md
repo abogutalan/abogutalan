@@ -14,10 +14,10 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/abdullah-ogutalan/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-<!--   <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code> -->
-  <code><a href="mailto:aogutala@uoguelph.ca">
-  <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" /></a></code>
+<!--   <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code> -->
+  <code><a href="mailto:aogutala@uoguelph.ca" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+<!--   <code><a href="mailto:aogutala@uoguelph.ca"> -->
+<!--   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" /></a></code> -->
 </h5>
 <br>
 
