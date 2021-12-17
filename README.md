@@ -41,7 +41,7 @@ I am a coder who loves to think solutions out of thin air. I’m passionate abou
 <!-- - Exploring [Bitcoin Core](https://bitcoincore.org/) and contributing towards it.  -->
 - Exploring Web 3.0 | Blockchain | Metaverse technologies. 
 
-- BUIDL dApps.
+<!-- - BUIDL dApps. -->
 
 ### Projects 👨‍💻
 
