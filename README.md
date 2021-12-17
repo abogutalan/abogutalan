@@ -2,20 +2,10 @@
 
 
 
-<a href="https://www.linkedin.com/in/abdullah-ogutalan/" target="_blank">
-  <img  align="left" width="28px" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_1280.png" />
-</a>
-
-
-
-<br>
-<br>
-
-
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/abdullah-ogutalan/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 <!--   <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code> -->
-  <code><a href="mailto:aogutala@uoguelph.ca" title="Gmail Account"><img width="42" src="images/gmail.png"> Gmail</a></code>
+  <code><a href="https://www.codewars.com/users/abogutalan" title="Codewars"><img width="22" src="images/codewars.svg"> Codewarsw</a></code>
 <!--   <code><a href="mailto:aogutala@uoguelph.ca"> -->
 <!--   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" /></a></code> -->
 </h5>
