@@ -6,20 +6,18 @@
   <img  align="left" width="28px" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_1280.png" />
 </a>
 
-<a href="mailto:aogutala@uoguelph.ca">
-  <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
-</a>
+
 
 <br>
 <br>
 
 
 <h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.linkedin.com/in/abdullah-ogutalan/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+<!--   <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code> -->
+  <code><a href="mailto:aogutala@uoguelph.ca">
+  <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" /></a></code>
 </h5>
 <br>
 
