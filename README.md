@@ -10,6 +10,15 @@
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
 </a>
 
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
+<br>
+
 <!-- <a href="https://leetcode.com/abogutalan/" target="_blank">
   <img alt="Medium" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
 </a> -->
@@ -29,6 +38,9 @@
 I am a coder who loves to think solutions out of thin air. I’m passionate about Artificial Intelligence, Web 3.0 and Blockchain technologies.
 
 - ⚡ Fun fact: I love playing chess. So if you up for a game send me a request at <a href="https://www.chess.com/member/abogutalan" target="_blank">abogutalan</a>.
+
+- ⚡ Belief: `Stay hugry, Stay foolish.` -- Steve Jobs
+
 
 ### 🔭 I’m currently working on
 
