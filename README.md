@@ -7,10 +7,7 @@
 <!--   <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code> -->
   <code><a href="https://www.codewars.com/users/abogutalan" title="Codewars"><img width="22" src="images/codewars.svg"> Codewars</a></code>
   <code><a href="mailto:aogutala@uoguelph.ca" title="gmail"><img width="42" src="images/gmail.png"> Gmail</a></code>
-	
-	<code><a href="https://medium.com/@abdullah.ogutalan/" title="Medium">
-  <img width="42" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">Medium
-		</a></code>
+  <code><a href="https://medium.com/@abdullah.ogutalan/" title="Medium"><img width="42" src="images/medium.png">Medium</a></code>
 </h5>
 
 <!-- <a href="https://leetcode.com/abogutalan/" target="_blank">
