@@ -44,7 +44,7 @@ I am a coder who loves to think solutions out of thin air. I’m passionate abou
 
 ### Projects 👨‍💻
 
-| Name | Description | Source Code | Deployed at |
+| Name | Description | Source Code | Takeaway |
 |:----:|:------------|:----:|:-----------:|
 | 8-Puzzle-Problem | Implement A* tree search in Java that solves 8-puzzle with the misplaced-tiles heuristics. | [Repo](https://github.com/abogutalan/8-Puzzle-Problem) | |
 | image-to-text| Building Custom Deep Learning Based OCR models. | [Repo](https://github.com/abogutalan/image-to-text) | | 
@@ -52,6 +52,7 @@ I am a coder who loves to think solutions out of thin air. I’m passionate abou
 | classify-clothes | Classify images of clothing. | [Repo](https://github.com/abogutalan/machineLearning-and-AI/tree/master/classify-clothes) | |
 | image-sharpening | Sharpen images with Computer Vision libraries. | [Repo](https://github.com/abogutalan/image-sharpening) | |
 | Skin Detection | Finding skin-colored pixels and regions in an image with openCV. | [Repo](https://github.com/abogutalan/skin-detection) | |
+| pacman-AI | This project implements model-based and model-free reinforcement learning algorithms. | [Repo](https://github.com/abogutalan/pacman-AI) | Reinforcement Learning |
 | videographer-portfolio | Portfolio Website for a Videographer | [Repo](https://github.com/abogutalan/videographer-portfolio) | [Netlify](https://abogutalan.github.io/videographer-portfolio/) 
 		
 		
