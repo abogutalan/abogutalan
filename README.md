@@ -46,12 +46,12 @@ I am a coder who loves to think solutions out of thin air. I’m passionate abou
 
 | Name | Description | Source Code | Takeaway |
 |:----:|:------------|:----:|:-----------:|
-| 8-Puzzle-Problem | Implement A* tree search in Java that solves 8-puzzle with the misplaced-tiles heuristics. | [Repo](https://github.com/abogutalan/8-Puzzle-Problem) | |
+| 8-Puzzle-Problem | Implement A* tree search in Java that solves 8-puzzle with the misplaced-tiles heuristics. | [Repo](https://github.com/abogutalan/8-Puzzle-Problem) | A* tree search |
 | image-to-text| Building Custom Deep Learning Based OCR models. | [Repo](https://github.com/abogutalan/image-to-text) | | 
 | transcribe-tool | Perform AWS Transcribe on an audio file in S3 bucket. | [Repo](https://github.com/abogutalan/transcribe-tool) | |
-| classify-clothes | Classify images of clothing. | [Repo](https://github.com/abogutalan/machineLearning-and-AI/tree/master/classify-clothes) | |
-| image-sharpening | Sharpen images with Computer Vision libraries. | [Repo](https://github.com/abogutalan/image-sharpening) | |
-| Skin Detection | Finding skin-colored pixels and regions in an image with openCV. | [Repo](https://github.com/abogutalan/skin-detection) | |
+| classify-clothes | Classify images of clothing. | [Repo](https://github.com/abogutalan/machineLearning-and-AI/tree/master/classify-clothes) | Tensorflow |
+| image-sharpening | Sharpen images with Computer Vision libraries. | [Repo](https://github.com/abogutalan/image-sharpening) | Computer Vision |
+| Skin Detection | Finding skin-colored pixels and regions in an image with openCV. | [Repo](https://github.com/abogutalan/skin-detection) | Computer Vision |
 | pacman-AI | This project implements model-based and model-free reinforcement learning algorithms. | [Repo](https://github.com/abogutalan/pacman-AI) | Reinforcement Learning |
 | genetic-car-sim | Experimenting how genetic algorithm performs by manipulating mutation rate, increasing elite selection, and applying different mating methods e.g. mate2ptCrossover, mate1ptCrossover, mateUniformCrossover | [Repo](https://github.com/abogutalan/genetic-car-sim) | Genetic Algorithm |
 | videographer-portfolio | Portfolio Website for a Videographer | [Repo](https://github.com/abogutalan/videographer-portfolio) | [Netlify](https://abogutalan.github.io/videographer-portfolio/) 
