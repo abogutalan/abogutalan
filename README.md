@@ -47,7 +47,7 @@ I am a coder who loves to think solutions out of thin air. I’m passionate abou
 | Name | Description | Source Code | Takeaway |
 |:----:|:------------|:----:|:-----------:|
 | 8-Puzzle-Problem | Implement A* tree search in Java that solves 8-puzzle with the misplaced-tiles heuristics. | [Repo](https://github.com/abogutalan/8-Puzzle-Problem) | A* tree search |
-| image-to-text| Building Custom Deep Learning Based OCR models. | [Repo](https://github.com/abogutalan/image-to-text) | | 
+| image-to-text| Building Custom Deep Learning Based OCR models. | [Repo](https://github.com/abogutalan/image-to-text) | Image Processing | 
 | transcribe-tool | Perform AWS Transcribe on an audio file in S3 bucket. | [Repo](https://github.com/abogutalan/transcribe-tool) | |
 | classify-clothes | Classify images of clothing. | [Repo](https://github.com/abogutalan/machineLearning-and-AI/tree/master/classify-clothes) | Tensorflow |
 | image-sharpening | Sharpen images with Computer Vision libraries. | [Repo](https://github.com/abogutalan/image-sharpening) | Computer Vision |
