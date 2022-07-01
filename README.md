@@ -56,6 +56,21 @@ I am a coder who loves to think solutions out of thin air. I’m passionate abou
 | genetic-car-sim | Experimenting how genetic algorithm performs by manipulating mutation rate, increasing elite selection, and applying different mating methods e.g. mate2ptCrossover, mate1ptCrossover, mateUniformCrossover | [Repo](https://github.com/abogutalan/genetic-car-sim) | Genetic Algorithm |
 | videographer-portfolio | Portfolio Website for a Videographer | [Repo](https://github.com/abogutalan/videographer-portfolio) | [Netlify](https://abogutalan.github.io/videographer-portfolio/) 
 		
+
+### Skills 👨‍💻
+
+|              Name              | Description                                                                                                  |
+|:------------------------------:|:-------------------------------------------------------------------------------------------------------------|
+|     Programming Languages      | Python, Java, C/C#, Javascript, Ruby, Matlab                                                                 |
+|            Servers             | Keras, Tensorflow, PyTorch                                                                                   |
+|      Cloud infrastructure      | AWS, Google Cloud Platform, Azure                                                                            |
+|            Database            | MySQL , PostgreSQL, GraphQL, SQLite                                                                          |
+| Containerization & Deployment  | Docker, Kubernetes, Terraform                                                                                |
+|           Libraries            | Numpy, Jax, Scikit-learn, Pandas, Matplotlib, OpenCV                                                         |
+|       Operating Systems        | Linux, Windows, MacOS, Android / IOS                                                                         |
+| Web Technologies & Frameworks  | React, Flask, Node.js, D3.js, Express.js, HTML, CSS, Javascript, jQuery/Ajax, Gatsby, Netlify CMS, Bootstrap |
+|             Others             | Github/GitLab, Jira, Confluence, UI/UX, Firebase, Scrum/Agile Workflow                                       |
+		
 		
 <!-- - [Journey of my Competitive Coding so far](https://github.com/Saviour1001/Competetive) -->
 
