@@ -33,7 +33,7 @@ I am a coder who loves to think solutions out of thin air. I’m passionate abou
 
 - Enhancing my competitive coding skills.
 
-- Specializing in Artificial Intelligence.
+- Specializing in Artificial Intelligence & Machine Learning.
 
 - Developing Full-Stack Web Applications.
 
