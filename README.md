@@ -22,7 +22,7 @@
 
 ### About Me 🚀
 
-I am a coder who loves to think solutions out of thin air. I’m passionate about Artificial Intelligence, Web 3.0 and Blockchain technologies.
+I am a coder who loves to think solutions out of thin air. I’m passionate about Artificial Intelligence and Machine Learning.
 
 - ⚡ Fun fact: I love playing chess. So if you up for a game send me a request at <a href="https://www.chess.com/member/abogutalan" target="_blank">abogutalan</a>.
 
